@@ -25,4 +25,4 @@ The meaning of each button:
 <img width="520" height="260" alt="image" src="https://github.com/user-attachments/assets/74aa3614-51f9-41e3-a19f-8a2499302934" />
 
 ## Project status
-finished in 20.05.2025
+Finished in 20.05.2025
